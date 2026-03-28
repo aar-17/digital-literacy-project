@@ -12,20 +12,20 @@ This project focuses on developing digital literacy skills through practical tas
 The objective of this project is to enhance knowledge of digital tools and promote safe and responsible use of technology.
 
 Project Structure
-│
-├── report
-│
-├── task-1-presentation
-│
-├── task-2-portfolio
-│
-├── task-3-platforms
-│
-├── task-4-email-etiquette
-│
-├── task-5-cybercrime/
-│
-└── README.md
+
+ report
+
+ task-1-presentation
+
+ task-2-portfolio
+ 
+ task-3-platforms
+
+ task-4-email-etiquette
+
+ task-5-cybercrime/
+
+ README.md
 
  Task Summary
 🔹 Task 1 – Infographic
