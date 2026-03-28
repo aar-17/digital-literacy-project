@@ -26,8 +26,10 @@ Project Structure
  task-5-cybercrime/
 
  README.md
+ 
 
  Task Summary
+ 
 🔹 Task 1 – Infographic
 
 Created an infographic using Canva covering digital literacy concepts like safe internet usage, email etiquette, and digital tools.
