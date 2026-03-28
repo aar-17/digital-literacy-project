@@ -10,8 +10,6 @@ Enable two-factor authentication for accounts
 
 Regularly check your bank statements
 
-Report fraud immediately on the official cybercrime portal:
-
-https://cybercrime.gov.in
+Report fraud immediately on the official cybercrime portal: https://cybercrime.gov.in
 
 Call the helpline number 1930 in case of financial fraud
